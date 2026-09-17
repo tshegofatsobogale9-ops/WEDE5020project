@@ -39,7 +39,7 @@ The website consists of 5 HTML pages that are linked together through a navigati
 - [x] Semantic HTML tags: `<header>`, `<nav>`, `<main>`, `<footer>`
 - [x] Contact form with labels and inputs - 5.3
 - [x] Responsive meta tag for mobile devices
-## changelog
+## 6. Changelog
 - index
 - About us
 - contacts
@@ -48,6 +48,13 @@ The website consists of 5 HTML pages that are linked together through a navigati
   ## changes made to the project
   - addded a new class called mystyle.css under css
 ## 7. References
-All research for business profile and content was done using Harvard referencing.
-See the assignment document for full bibliography.
+1.	Bakery Association of South Africa. (2024) *Bakery industry overview in South Africa*. Available at: https://www.bakersa.org.za (Accessed: 14 August 2026).
+
+2.	BusinessTech. (2025) *Cost of bread and staple foods in South Africa*. Available at: https://businesstech.co.za (Accessed: 14 August 2026).
+
+3.	Statistics South Africa. (2024) *Quarterly Labour Force Survey: Northwest Province*. Pretoria: Stats SA.
+
+4.	The Independent Institute of Education. (2026) *Web Development WEBD511*: Unit 2.1 Business Profile and Market Research. [Lecture notes].
+
+5.	World Health Organization. (2023) *Guidelines on healthy eating and bakery products*. Available at: https://www.who.int (Accessed: 14 August 2026).
 
