@@ -39,14 +39,15 @@ The website consists of 5 HTML pages that are linked together through a navigati
 - [x] Semantic HTML tags: `<header>`, `<nav>`, `<main>`, `<footer>`
 - [x] Contact form with labels and inputs - 5.3
 - [x] Responsive meta tag for mobile devices
-
-## 6. References
+## changelog
+- index
+- About us
+- contacts
+- services
+- Enquiries
+  ## changes made to the project
+  - addded a new class called mystyle.css under css
+## 7. References
 All research for business profile and content was done using Harvard referencing.
 See the assignment document for full bibliography.
 
-## 7. Author
-**Student Name:** [Add Your Name]
-**Student Number:** [Add Your Student Number]
-**Module:** WEBD511 - Web Development
-**Institution:** The Independent Institute of Education
-**Date:** August 2026
